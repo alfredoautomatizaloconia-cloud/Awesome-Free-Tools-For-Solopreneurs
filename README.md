@@ -61,6 +61,7 @@ A curated list of awesome free tools, templates, and resources for solopreneurs,
 *   **[Substack](https://substack.com)** - Simple newsletter platform focusing on paid subscriptions and community building.
 *   **[ConvertKit](https://convertkit.com)** - Professional email marketing platform for creators with powerful automation and landing page builders.
 *   **[Google Analytics](https://analytics.google.com)** - Track your website traffic, user acquisition channels, and conversion metrics for free.
+*   **[One Person Company](https://onepersoncompany.com)** - Free library of 317 actionable skill guides plus a complete SEO playbook to help solo founders grow organic traffic without a team.
 
 ## 📦 Digital Products & Payments
 *Collect payments globally and deliver downloadable assets automatically.*
