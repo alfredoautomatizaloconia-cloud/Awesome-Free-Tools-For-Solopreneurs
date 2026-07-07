@@ -19,6 +19,7 @@ A curated list of awesome free tools, templates, and resources for solopreneurs,
 - [📦 Digital Products & Payments](#-digital-products--payments)
 - [📈 how to use these tools to generate income](#-how-to-use-these-tools-to-generate-income)
 
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG image converter that runs entirely in the browser. No signup, no upload, no installation.
 ---
 
 ## 🛠️ Web Development & Landing Pages
