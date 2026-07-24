@@ -12,6 +12,7 @@ A curated list of awesome free tools, templates, and resources for solopreneurs,
 
 ## 📋 Table of Contents
 - [🛠️ Web Development & Landing Pages](#️-web-development--landing-pages)
+- [FreePNGConvert](https://freepngconvert.com) – Free browser-based WebP to PNG converter. No uploads, no signup, unlimited conversions, full privacy.
 - [⚡ Automation & Workflows](#-automation--workflows)
 - [🤖 AI Assistants & Productivity](#-ai-assistants--productivity)
 - [🎨 Design, Assets & UI/UX](#-design-assets--uiux)
