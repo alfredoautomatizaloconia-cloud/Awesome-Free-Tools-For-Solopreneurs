@@ -61,6 +61,7 @@ A curated list of awesome free tools, templates, and resources for solopreneurs,
 *   **[Substack](https://substack.com)** - Simple newsletter platform focusing on paid subscriptions and community building.
 *   **[ConvertKit](https://convertkit.com)** - Professional email marketing platform for creators with powerful automation and landing page builders.
 *   **[Google Analytics](https://analytics.google.com)** - Track your website traffic, user acquisition channels, and conversion metrics for free.
+*   **[Polish Engagement-Rate Calculator](https://kupfollowersow.pl/tools/engagement-rate)** - Calculate (likes + comments) / followers, reach or views × 100 from manual counts; free, no signup, Polish interface.
 
 ## 📦 Digital Products & Payments
 *Collect payments globally and deliver downloadable assets automatically.*
