@@ -53,6 +53,7 @@ A curated list of awesome free tools, templates, and resources for solopreneurs,
 *   **[Figma](https://figma.com)** - Collaborative web-based design tool. Excellent for prototyping landing pages and UI designs.
 *   **[Unsplash](https://unsplash.com)** - Thousands of high-resolution, royalty-free stock photos editable for commercial use.
 *   **[Excalidraw](https://excalidraw.com)** - Virtual whiteboard for sketching diagrams, database structures, and wireframes.
+*   **[My Nine Games](https://myninegames.com/)** - Free browser maker for a personal 3×3 games collage with PNG export and share links.
 
 ## 📈 Marketing, SEO & Newsletters
 *Drive traffic, capture email leads, and build an audience of loyal customers.*
